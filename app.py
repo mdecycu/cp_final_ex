@@ -1,5 +1,5 @@
 # app.py
-
+# pip install flask peewee bcrypt wtforms waitress
 import os
 from datetime import datetime
 from functools import wraps
